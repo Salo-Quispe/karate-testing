@@ -213,6 +213,6 @@ Runner seguro utilizando las etiquetas y `@tag` separados previniendo acoplamien
 ### Terminal Output
 ![Terminal Execution](anexos/terminal.png)
 
-### Serenity Report
-![Serenity Report](anexos/reporte.png)
+### Karate Report
+![Karate Report](anexos/reporte.png)
 
