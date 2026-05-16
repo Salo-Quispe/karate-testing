@@ -41,6 +41,12 @@ Al concentrar la ejecución en el `AuthRunner` apuntando al classpath base (`cla
 
 ## Evidencia de la Última Ejecución
 
+### Terminal Output
+![Terminal Execution](anexos/terminal.png)
+
+### Karate Report
+![Karate Report](anexos/reporte.png)
+
 Resumen observado en el reporte de Karate:
 
 - `scenariosPassed = 5`

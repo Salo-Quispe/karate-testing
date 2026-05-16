@@ -208,11 +208,3 @@ mvn clean test -B
 
 Runner seguro utilizando las etiquetas y `@tag` separados previniendo acoplamientos y controlando los threads (parallel).
 
-## Evidencia de Ejecución
-
-### Terminal Output
-![Terminal Execution](anexos/terminal.png)
-
-### Karate Report
-![Karate Report](anexos/reporte.png)
-
